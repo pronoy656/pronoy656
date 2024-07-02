@@ -10,7 +10,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pronoy656&" alt="pronoy656" /></p>
 
 - 🔭 I’m currently working on this page. 
 - 👋 Hi, I’m @pronoy656
