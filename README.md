@@ -1,19 +1,11 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://i.ibb.co/sQ7gQxC/Neon-Modern-Futuristic-Simple-Gaming-You-Tube-Banner-1.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+(https://i.ibb.co/sQ7gQxC/Neon-Modern-Futuristic-Simple-Gaming-You-Tube-Banner-1.png)
+
+
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
-
-
-
-
-
-
-
 - 👋 Hi, I’m @pronoy656
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
