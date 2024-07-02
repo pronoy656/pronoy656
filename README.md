@@ -9,6 +9,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pronoy656&show_icons=true&locale=en" alt="pronoy656" /></p>
+<h3 align="left">Current streak</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pronoy656&" alt="pronoy656" /></p>
 
 - 🔭 I’m currently working on this page. 
