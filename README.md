@@ -26,15 +26,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronoy656&layout=compact&theme=highcontrast)
 
+<h2 align="left">👀 Current Overview</h2>
 
-
-- 🔭 I’m currently working on this page. 
 - 👋 Hi, I’m @pronoy656
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on ...Frontend Web Development 
+- 🌱 I’m currently learning ...Next.js and Framer Motion
+- - 👀 I’m interested in ...Advance animation for web
+- 💞️ I’m looking to collaborate on ...Open Source project
 - ⚡ Fun fact: ...
 
 
