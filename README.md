@@ -23,6 +23,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pronoy656&show_icons=true&theme=highcontrast)
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/pronoy-paul-751958264//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/pronoy.pal.7)  
+
+
 
 - 🔭 I’m currently working on this page. 
 - 👋 Hi, I’m @pronoy656
