@@ -20,7 +20,7 @@
 
 <h2 align="left">Daily streak</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pronoy656&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pronoy656&show_icons=true&theme=tokyonight)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pronoy656&show_icons=true&locale=en" alt="pronoy656" /></p>
 
 
