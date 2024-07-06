@@ -17,6 +17,9 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pronoy656&theme=aura&hide_border=true)](https://git.io/streak-stats)
+
+<h2 align="left">Daily streak</h2>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pronoy656&show_icons=true&theme=radical)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pronoy656&show_icons=true&locale=en" alt="pronoy656" /></p>
 
 
