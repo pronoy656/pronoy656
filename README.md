@@ -24,7 +24,7 @@
 
 <h2 align="left">Top language</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronoy656&layout=compact&theme=highcontrast)
 
 
 
