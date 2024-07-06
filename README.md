@@ -14,9 +14,7 @@
 
 <h2 align="left">Daily streak</h2>
 
-<p align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=pronoy656&theme=aura&hide_border=true)](https://git.io/streak-stats)
-</p>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pronoy656&theme=aura&hide_border=true)](https://git.io/streak-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pronoy656&show_icons=true&locale=en" alt="pronoy656" /></p>
