@@ -12,17 +12,17 @@
   </a>
 </p>
 
-<h2 align="left">Daily streak</h2>
+<h2 align="left">Daily Streak</h2>
 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pronoy656&theme=aura&hide_border=true)](https://git.io/streak-stats)
 
-<h2 align="left">Daily streak</h2>
+<h2 align="left">Total Github Stats</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pronoy656&show_icons=true&theme=highcontrast)
 
-<h2 align="left">Top language</h2>
+<h2 align="left">Top languages</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronoy656&layout=compact&theme=highcontrast)
 
