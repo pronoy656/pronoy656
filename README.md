@@ -29,9 +29,9 @@
 <h2 align="left">👀 Current Overview</h2>
 
 - 👋 Hi, I’m @pronoy656
-- 🔭 I’m currently working on ...Frontend Web Development 
-- 🌱 I’m currently learning ...Next.js and Framer Motion
-- - 👀 I’m interested in ...Advance animation for web
+- 🔭 I’m currently working on ...MERN Stack Web Development 
+- 🌱 I’m currently learning ...Next.js and Type Script
+- 👀 I’m interested in ...Advance animation for web
 - 💞️ I’m looking to collaborate on ...Open Source project
 - ⚡ Fun fact: ...
 
