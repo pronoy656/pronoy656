@@ -1,5 +1,4 @@
-
-<a href="https://app.daily.dev/pronoypaul"><img src="https://api.daily.dev/devcards/v2/TZMgHmz55POH12FKOXVaJ.png?r=z02&type=default" width="356" alt="Pronoy Paul's Dev Card"/></a>
+<a href="https://app.daily.dev/pronoypaul"><img src="https://api.daily.dev/devcards/v2/TZMgHmz55POH12FKOXVaJ.png?cache=1" width="356" alt="Pronoy Paul's Dev Card"/></a>
 
 
 
@@ -7,7 +6,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,c,react,nodejs,express,mongodb,firebase&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,c,react,redux,nextjs,nodejs,express,mongodb,firebase&perline=4" />
   </a>
 </p>
 
