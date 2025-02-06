@@ -1,6 +1,6 @@
 
 
-![I am GitHub Readme Generator's creator](https://i.ibb.co/sQ7gQxC/Neon-Modern-Futuristic-Simple-Gaming-You-Tube-Banner-1.png)
+<a href="https://app.daily.dev/pronoypaul"><img src="https://api.daily.dev/devcards/v2/TZMgHmz55POH12FKOXVaJ.png?r=z02&type=default" width="356" alt="Pronoy Paul's Dev Card"/></a>
 
 
 
