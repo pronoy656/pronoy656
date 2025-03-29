@@ -1,5 +1,5 @@
 <a href="https://app.daily.dev/pronoypaul"><img src="https://api.daily.dev/devcards/v2/TZMgHmz55POH12FKOXVaJ.png?cache=1" width="356" alt="Pronoy Paul's Dev Card"/></a>
-
+ <img src="[https://skillicons.dev/icons?i=html,css,tailwind,js,c,react,redux,nextjs,nodejs,express,mongodb,firebase&perline=4](https://drive.google.com/file/d/1enZlrV7CTX6ZdWYF2sMrF2vbRUz5XzHC/view?usp=sharing)" />
 
 
 <h3 align="left">Languages and Tools:</h3>
