@@ -1,5 +1,7 @@
 <a href="https://app.daily.dev/pronoypaul"><img src="https://api.daily.dev/devcards/v2/TZMgHmz55POH12FKOXVaJ.png?cache=1" width="356" alt="Pronoy Paul's Dev Card"/></a>
- <img src="[https://skillicons.dev/icons?i=html,css,tailwind,js,c,react,redux,nextjs,nodejs,express,mongodb,firebase&perline=4](https://drive.google.com/file/d/1enZlrV7CTX6ZdWYF2sMrF2vbRUz5XzHC/view?usp=sharing)" />
+<img src="[https://raw.githubusercontent.com/pronoy656/pronoy656/main/profile.jpg](https://github.com/pronoy656/pronoy656/blob/main/Black%20and%20White%20Initial%20P%20Corporate%20Logo%20(1).png?raw=true)" width="200" alt="My Profile Picture">
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
