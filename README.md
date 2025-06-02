@@ -1,4 +1,4 @@
-<img src="https://github.com/pronoy656/pronoy656/blob/main/Black%20and%20White%20Initial%20P%20Corporate%20Logo%20(1).png?raw=true" width="500" alt="My Profile Picture">
+<img src="https://github.com/pronoy656/pronoy656/blob/main/Neon%20Modern%20Futuristic%20Simple%20Gaming%20YouTube%20Banner%20.png?raw=true" width="100%" alt="My Profile Picture">
 
 
 
