@@ -3,6 +3,21 @@
 
 
 
+<h3 align="left">Hey there! 👋 I'm Pronoy</h3>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=pronoy656&style=plastic)
+
+<h5>🚀 MERN Stack Developer | 🎓 CSE @ ULAB | 💡 Passionate about clean UI, smart systems & modern tech | 🧠 Always learning, always building</h5>
+
+- 🔭 I’m currently working on ...MERN Stack Web Development 
+- 🌱 I’m currently learning ...Next.js and Type Script
+- 👀 I’m interested in ...Advance animation for web
+- 💞️ I’m looking to collaborate on ...Open Source project
+- ⚡ Fun fact: I treat bugs like feature requests — just with more panic
+
+
+
+
 <h3 align="left">Languages and Tools ⚙️</h3>
 
 <p align="center">
@@ -27,15 +42,7 @@
 
 <h2 align="left">Dev Card</h2>
 
-<a href="https://app.daily.dev/pronoypaul"><img src="https://api.daily.dev/devcards/v2/TZMgHmz55POH12FKOXVaJ.png?cache=1" width="356" alt="Pronoy Paul's Dev Card"/></a>
+<a href="https://app.daily.dev/pronoypaul"><img src="https://api.daily.dev/devcards/v2/TZMgHmz55POH12FKOXVaJ.png?type=wide&r=eap" width="652" alt="Pronoy Paul's Dev Card"/></a>
 
-<h2 align="left">👀 Current Overview</h2>
-
-- 👋 Hi, I’m @pronoy656
-- 🔭 I’m currently working on ...MERN Stack Web Development 
-- 🌱 I’m currently learning ...Next.js and Type Script
-- 👀 I’m interested in ...Advance animation for web
-- 💞️ I’m looking to collaborate on ...Open Source project
-- ⚡ Fun fact: ...
 
 
