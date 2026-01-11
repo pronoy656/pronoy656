@@ -1,4 +1,4 @@
-![PRONOY](gitartwork.svg)
+![gitartwork](gitartwork.svg)
 
 
 
