@@ -7,7 +7,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=pronoy656&style=plastic)
 
-<h5>🚀 MERN Stack Developer | 🎓 CSE @ ULAB | 💡 Passionate about clean UI, smart systems & modern tech | 🧠 Always learning, always building</h5>
+<h5>🚀 Front-end Developer @Sparktech Agency | 🎓 CSE @ ULAB | 💡 Passionate about clean UI, smart systems & modern tech | 🧠 Always learning, always building</h5>
 
 - 🔭 I’m currently working on ...MERN Stack Web Development 
 - 🌱 I’m currently learning ...Next.js and Type Script
