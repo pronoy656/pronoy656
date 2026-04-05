@@ -1,50 +1,126 @@
+<!-- ================= HERO ================= -->
 
-<img width="1376" height="768" alt="Gemini_Generated_Image_ut9anzut9anzut9a" src="https://github.com/user-attachments/assets/cf49729e-c3cb-49bc-af23-232321eeec4e" />
-
+  <img width="1376" height="768" src="https://github.com/user-attachments/assets/cf49729e-c3cb-49bc-af23-232321eeec4e" />
 
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&lines=Hey+there!+👋+I'm+Pronoy;Frontend+Developer;Next.js+TypeScript+Redux" />
 </p>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=pronoy656&style=plastic)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pronoy656&style=plastic" alt="Visitor Count" />
+</p>
 
+---
 
-<h5>🚀 Front-end Developer @Sparktech Agency | 🎓 CSE @ ULAB | 💡 Passionate about clean UI, smart systems & modern tech | 🧠 Always learning, always building</h5>
+<!-- ================= INTRO ================= -->
+<h3 align="left">🚀 Frontend Developer @ Sparktech Agency</h3>
 
-- 🔭 I’m currently working on ...MERN Stack Web Development 
-- 🌱 I’m currently learning ...Next.js and Type Script
-- 👀 I’m interested in ...Advance animation for web
-- 💞️ I’m looking to collaborate on ...Open Source project
-- ⚡ Fun fact: I treat bugs like feature requests — just with more panic
+<p align="left">
+🎓 CSE Student @ ULAB <br/>
+💡 Passionate about clean, scalable & modern web interfaces <br/>
+🧠 Always learning, always building
+</p>
 
+---
 
+<!-- ================= WHAT I'M DOING ================= -->
+### ⚙️ What I'm Up To
 
+- 🔭 Building: **MERN Stack Applications** with scalable architecture  
+- 🌱 Developing an **engineering mindset** and problem-solving skills  
+- 🎨 Exploring: **Advanced UI/UX and Web Animations**  
+- 🧠 Improving: **System thinking, clean code & performance optimization**  
+- 🤝 Open to collaborating on: **Open Source & real-world projects**  
+- ⚡ Fun fact: *Debugging is just me vs code… and sometimes code wins 😅*
 
+---
+
+<!-- ================= SKILLS ================= -->
 <h3 align="left">Languages and Tools ⚙️</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,c,react,redux,nextjs,nodejs,express,mongodb,firebase&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,nextjs,nodejs,express,mongodb,firebase,git,github,vercel,vite,npm,figma,postman,c&perline=7" />
   </a>
 </p>
 
-<h2 align="left">Daily Streak 🕧</h2>
+---
+
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+<h3 align="left">📊 Contribution Graph</h3>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pronoy656&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+<!-- ================= STREAK ================= -->
+<h3 align="left">🕧 GitHub Activity</h3>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=pronoy656&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+---
+
+<!-- ================= OVERVIEW ================= -->
+<h3 align="left">📊 GitHub Overview</h3>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pronoy656&theme=radical" />
+</p>
+
+---
+
+<!-- ================= INSIGHTS ================= -->
+<h3 align="left">📊 GitHub Insights</h3>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pronoy656&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pronoy656&theme=github_dark" width="48%" />
+</p>
+
+---
+
+<!-- ================= SOCIAL ================= -->
+<h3 align="left">📫 Connect With Me</h3>
+
+- 📧 Email: your@email.com  
+- 💼 LinkedIn: your-link  
+- 🌐 Portfolio: your-link  
+
+<p align="left" style="display:flex; gap:12px; flex-wrap:wrap;">
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0ea5e9" />
+  </a>
+
+  <a href="your-link">
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pronoy656&theme=aura&hide_border=true)](https://git.io/streak-stats)
+<!-- ================= ENDING ================= -->
+<p align="center">
+  🚀 Building, learning, and growing one commit at a time.  
+  <br/>
+  Let’s connect and build something impactful together!
+</p>
 
-<h2 align="left">Total Github Stats 💹</h2>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pronoy656&show_icons=true&theme=highcontrast)
-
-<h2 align="left">Top languages 👨‍💻</h2>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronoy656&layout=compact&theme=highcontrast)
-
-<h2 align="left">Dev Card</h2>
-
-<a href="https://app.daily.dev/pronoypaul"><img src="https://api.daily.dev/devcards/v2/TZMgHmz55POH12FKOXVaJ.png?type=wide&r=eap" width="652" alt="Pronoy Paul's Dev Card"/></a>
-
-
+<p align="center">
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+    <img 
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+      alt="Buy Me A Coffee" 
+      height="45" 
+    />
+  </a>
+</p>
