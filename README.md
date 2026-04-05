@@ -1,11 +1,12 @@
-![gitartwork](gitartwork.svg)
 
+<img width="1376" height="768" alt="Gemini_Generated_Image_ut9anzut9anzut9a" src="https://github.com/user-attachments/assets/cf49729e-c3cb-49bc-af23-232321eeec4e" />
 
 
 
 <h3 align="left">Hey there! 👋 I'm Pronoy</h3>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=pronoy656&style=plastic)
+
 
 <h5>🚀 Front-end Developer @Sparktech Agency | 🎓 CSE @ ULAB | 💡 Passionate about clean UI, smart systems & modern tech | 🧠 Always learning, always building</h5>
 
