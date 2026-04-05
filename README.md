@@ -3,7 +3,9 @@
 
 
 
-<h3 align="left">Hey there! 👋 I'm Pronoy</h3>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&lines=Hey+there!+👋+I'm+Pronoy;Frontend+Developer;Next.js+TypeScript+Redux" />
+</p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=pronoy656&style=plastic)
 
